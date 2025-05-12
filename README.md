@@ -1,2 +1,2 @@
 # greeting_reactJS_app
-Created with CodeSandbox
+This app greets you based on the time of day.
